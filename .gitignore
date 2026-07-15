@@ -1,0 +1,9 @@
+outputs/
+Test_Results/
+__pycache__/
+*.pyc
+*.pth
+*.pt
+tb/
+*.log
+.ipynb_checkpoints/
